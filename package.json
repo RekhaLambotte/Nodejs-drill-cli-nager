@@ -1,0 +1,27 @@
+{
+  "name": "@rekha/holidates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RekhaLambotte/Nodejs-drill-cli-nager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RekhaLambotte/Nodejs-drill-cli-nager/issues"
+  },
+  "homepage": "https://github.com/RekhaLambotte/Nodejs-drill-cli-nager#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "country-list": "^2.2.0"
+  },
+  "bin": {
+    "_comment" : "holidates est le nom a metre dans le terminal suivi du pays souhaité",
+    "holidates": "./index.js"
+  }
+}
