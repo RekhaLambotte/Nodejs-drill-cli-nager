@@ -2,33 +2,27 @@
 Introduction à Node js
 
 ## Cadre:
-Cet exercice est effectué dans le cadre de la 17ième semaine de formation au centre de formation BECODE. 
-Nous sommes en mars 2021.
+Cet exercice est effectué dans le cadre de la seizième semaine de formation au centre de formation BECODE. 
+Nous sommes en avril 2021.
 
 ## Technos utilisées:
-HTML5
-CSS3
-SASS
+NPM
 Javascript
 
 ## Auteurs: 
-
+projet solo
 
 ## Instructions:
+Créer un package npm pour afficher les jours fériés d'un pays précis
 
+Délai: 1,5 jour
 
-Délai: 
-
-## Mission
-image
 
 ## Statut:
-En cours/ terminé
+terminé
 
 ## Projet déployé: 
-Lien Github : 
+Lien Github : https://github.com/RekhaLambotte/Nodejs-drill-cli-nager.git
 
-Lien web: 
-
-## Remarques:
+Lien web: https://www.npmjs.com/settings/rekharekha/packages
 
