@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/RekhaLambotte/Nodejs-drill-cli-nager#readme",
   "dependencies": {
+    "@luciana001/holidates": "^1.0.3",
     "@zena.alsibaai/holidates": "^1.0.0",
     "axios": "^0.21.1",
     "country-list": "^2.2.0"
   },
   "bin": {
-    "holidates": "index.js"
-  },
-  "devDependencies": {}
+    "holidatesrekha": "index.js"
+  }
 }

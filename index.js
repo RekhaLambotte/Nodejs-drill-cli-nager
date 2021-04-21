@@ -28,4 +28,5 @@ axios.get('https://date.nager.at/api/v2/publicholidays/2021/'+code)
         console.log(error);
     })
     
-
+// "sudo npm link" permet de fixer les packages pour faire fonctionner le package
+// npm version patch + npm publish permet de faire un update du readme sur npm
